@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-management-postal/static/css/main.1963a295.chunk.css",
+    "main.js": "/user-management-postal/static/js/main.5a14a9b0.chunk.js",
+    "main.js.map": "/user-management-postal/static/js/main.5a14a9b0.chunk.js.map",
+    "runtime~main.js": "/user-management-postal/static/js/runtime~main.d2610d4a.js",
+    "runtime~main.js.map": "/user-management-postal/static/js/runtime~main.d2610d4a.js.map",
+    "static/js/2.90e0fd12.chunk.js": "/user-management-postal/static/js/2.90e0fd12.chunk.js",
+    "static/js/2.90e0fd12.chunk.js.map": "/user-management-postal/static/js/2.90e0fd12.chunk.js.map",
+    "index.html": "/user-management-postal/index.html",
+    "precache-manifest.ba6bdd219a3e70ece44c6129c2591e15.js": "/user-management-postal/precache-manifest.ba6bdd219a3e70ece44c6129c2591e15.js",
+    "service-worker.js": "/user-management-postal/service-worker.js",
+    "static/css/main.1963a295.chunk.css.map": "/user-management-postal/static/css/main.1963a295.chunk.css.map"
+  }
+}
