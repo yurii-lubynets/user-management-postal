@@ -2,6 +2,7 @@
   "name": "user-management-postal",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yurii-lubynets.github.io/user-management-postal/",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@material-ui/core": "^4.3.0",
