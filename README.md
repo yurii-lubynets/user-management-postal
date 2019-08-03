@@ -1,4 +1,4 @@
-# User management postal
+# User management postal: https://yurii-lubynets.github.io/user-management-postal/
 
 ## React, Mobx, Material-UI
 
